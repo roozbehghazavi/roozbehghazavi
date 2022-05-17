@@ -1,2 +1,2 @@
-<img style=height="137px" src="https://github-readme-stats.vercel.app/api?username=roozbehghazavi&theme=dracula&show_icons=true&include_all_commits=true&hide_border=true&count_private=true"> 
-<img style=height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roozbehghazavi&layout=compact&theme=dracula&hide_border=true&exclude_repo=XV6_system_call,Advanced-Programming,course_template,roozbehghazavi.github.io,XV6-Threads">
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=roozbehghazavi&theme=dracula&show_icons=true&include_all_commits=true&hide_border=true&count_private=true"> 
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roozbehghazavi&layout=compact&theme=dracula&hide_border=true&exclude_repo=XV6_system_call,Advanced-Programming,course_template,roozbehghazavi.github.io,XV6-Threads">
