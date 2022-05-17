@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roozbehghazavi&label=Profile%20views&color=0e75b6&style=flat" alt="roozbehghazavi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roozbehghazavi" alt="roozbehghazavi" /></a> </p>
-
-- 🔭 I’m currently working on [Parking Reservation System](https://github.com/roozbehghazavi/Parking_project)
+- 🔭 I’m currently working on [Parking Reservation System Project](https://github.com/roozbehghazavi/Parking_project)
 
 - 📫 How to reach me **roozbehghazavi@gmail.com**
 
@@ -13,6 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/roozbeh-ghazavi-b989701ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roozbeh-ghazavi-b989701ab" height="30" width="40" /></a>
 <a href="https://instagram.com/roozbehdrk77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="roozbehdrk77" height="30" width="40" /></a>
 </p>
 
