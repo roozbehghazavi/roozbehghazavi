@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **roozbehghazavi@gmail.com**
 
-- 📄 Know about my experiences [https://ir.linkedin.com/in/roozbeh-ghazavi-b989701ab](https://ir.linkedin.com/in/roozbeh-ghazavi-b989701ab)
+- 📄 Know about my experiences [https://www.linkedin.com/in/roozbeh-ghazavi-b989701ab/](https://www.linkedin.com/in/roozbeh-ghazavi-b989701ab/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
