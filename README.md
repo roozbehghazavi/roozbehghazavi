@@ -23,9 +23,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roozbehghazavi&layout=compact&theme=dracula&hide_border=true&exclude_repo=XV6_system_call,Advanced-Programming,course_template,roozbehghazavi.github.io,XV6-Threads" alt="roozbehghazavi" /></p>
 
-<br />
-<h3 align="left">Github Activity Graph:</h3>
-<br />
 
 
 
