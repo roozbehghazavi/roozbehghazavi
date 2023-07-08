@@ -27,5 +27,5 @@
 <h3 align="left">Github Activity Graph:</h3>
 <br />
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=roozbehghazavi) 
+
 
