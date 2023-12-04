@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Roozbeh</h1>
-<h3 align="center">A passionate Django and IoT developer</h3>
+<h3 align="center">A passionate software & IoT developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roozbehghazavi&label=Profile%20views&color=0e75b6&style=flat" alt="roozbehghazavi" /> </p>
 
-- 🔭 I’m currently working on [Parking Reservation System Project](https://github.com/roozbehghazavi/Parking_project)
+- 🔭 back-end developer at Ariyana shabake afagh 
 
 - 📫 How to reach me **roozbehghazavi@gmail.com**
 
