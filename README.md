@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roozbehghazavi&label=Profile%20views&color=0e75b6&style=flat" alt="roozbehghazavi" /> </p>
 
-- 🔭 back-end developer at Ariyana shabake afagh 
+- 🔭 Back-end developer at Ariyana Shabake Afagh 
 
 - 📫 How to reach me **roozbehghazavi@gmail.com**
 
