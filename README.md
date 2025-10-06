@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roozbeh</h1>
-<h3 align="center">A passionate software & IoT developer</h3>
+<h3 align="center">A passionate Software Developer & DevOps Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roozbehghazavi&label=Profile%20views&color=0e75b6&style=flat" alt="roozbehghazavi" /> </p>
 
