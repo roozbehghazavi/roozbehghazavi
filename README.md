@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roozbehghazavi&label=Profile%20views&color=0e75b6&style=flat" alt="roozbehghazavi" /> </p>
 
-- 🔭 Software Developer & DevOps Engineer at Ariyana Shabake Afagh 
+- 🔭 Software Developer & DevOps Engineer & Embedded Systems Engineer
 
 - 📫 How to reach me **roozbehghazavi@gmail.com**
 
